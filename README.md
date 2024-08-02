@@ -65,14 +65,26 @@ Administrator user permissions
 
 ![administrator_perm](/images/administrator_user.PNG)
 
-<!--## **3. Imágenes**
-Indicar qué entidades tendrán asociadas uno o varias imágenes por cada objeto/registro.
+## **3. Images**
+| Entity | Image |
+| --- | --- |
+| User | profile photo |
+| Product | product image |
+| Shopping cart | product image |
 
-## **4. Gráficos**
-Qué información se mostrará usando gráficos. De qué tipo serán los gráficos (líneas, barras, tarta, etc).
+## **4. Graphics**
+| Type of graphic | Info |
+| --- | --- |
+| bars | the most popular products |
+| bars | product recommendations |
+| bars | sales by product type |
+| bars | sales by size |
 
-## **5. Tecnología complementaria**
-Qué tecnología complementaria se empleará.
+## **5. Complementary technology**
+- generate PDF of an order
 
-## **6. Algoritmo o consulta avanzada**
-Indicar cuál será el algoritmo o la consulta avanzada que se implementará-->
+## **6. Algorithm or advanced query**
+- random products
+- recommendate products
+- see the amount of a product in real time
+- sales by an attribute (type of product, size) of a product
